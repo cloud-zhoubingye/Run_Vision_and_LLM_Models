@@ -2,7 +2,7 @@
 Run Vision Model (MobileNetV2) &amp; SLM (Llama3) on GPU.  
 This is homework 0 of Edge AI, 2025, NYCU
 
-# Learning Meterials
+### Learning Meterials
 
 Basic Machine Learning Knowledge
 
